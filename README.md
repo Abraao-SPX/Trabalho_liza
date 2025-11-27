@@ -36,7 +36,12 @@ Conceitos: POO, Listas, Árvores Hierárquicas e Recursividade.
 Grupo:
 
 Yuri Cruz Brandão - 16036094
+
 Pedro Henrique de Souza Santos - 16035878
+
 Abraão Silva Paixão - 16035780
+
 Franklyn dos Santos Silva - 16025102
+
 Paulo Rafael cardoso santos - 16035887
+
