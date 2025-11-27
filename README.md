@@ -13,12 +13,12 @@ Além do código, este projeto serve como base para a peça/vídeo explicativo a
 Cenário da Simulação
 Para demonstrar a lógica, criamos a seguinte hierarquia no Main:
 
-                    [CEO]
-                 /        \
-          [Gerente]        [Diretor]
-         /       \      (Valor: 3.500)
-   [Vendendor 1] [Vendendor 2]
-   (Valor: 1.000) (Valor: 2.000)
+                      [CEO]
+                   /        \
+            [Gerente]        [Diretor]
+           /       \      (Valor: 3.500)
+     [Vendendor 1] [Vendendor 2]
+     (Valor: 1.000) (Valor: 2.000)
 
  
 Resultados Esperados:
